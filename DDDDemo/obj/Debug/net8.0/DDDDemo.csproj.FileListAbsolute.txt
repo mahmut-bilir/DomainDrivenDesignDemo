@@ -1,0 +1,14 @@
+D:\projects\DomainDrivenDesignDemo\DDDDemo\bin\Debug\net8.0\DDDDemo.exe
+D:\projects\DomainDrivenDesignDemo\DDDDemo\bin\Debug\net8.0\DDDDemo.deps.json
+D:\projects\DomainDrivenDesignDemo\DDDDemo\bin\Debug\net8.0\DDDDemo.runtimeconfig.json
+D:\projects\DomainDrivenDesignDemo\DDDDemo\bin\Debug\net8.0\DDDDemo.dll
+D:\projects\DomainDrivenDesignDemo\DDDDemo\bin\Debug\net8.0\DDDDemo.pdb
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.AssemblyInfoInputs.cache
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.AssemblyInfo.cs
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.csproj.CoreCompileInputs.cache
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.dll
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\refint\DDDDemo.dll
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.pdb
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\DDDDemo.genruntimeconfig.cache
+D:\projects\DomainDrivenDesignDemo\DDDDemo\obj\Debug\net8.0\ref\DDDDemo.dll
